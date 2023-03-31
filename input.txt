@@ -3,9 +3,9 @@
 ######################################################################
 
 
-the dog loves the cat .
+# the dog loves the cat .
 
-# the dog chases the slow , lazy cat up a tall tree and the rat loves the dog .
+the dog chases the slow , lazy cat up a tall tree and the rat loves the dog .
 
 # a lazy dog quickly chases the fast , sneaky , furry cat up a tall tree and the rat loves the dog .
 
